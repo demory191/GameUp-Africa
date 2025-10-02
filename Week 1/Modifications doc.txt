@@ -1,0 +1,3 @@
+Modification 1 - changed the basic game space to Trap space which added more restrictions to both paddle and ball movement areas
+
+Modification 2 - Set tennis movement to 'true' which enabled back and forth movement for the paddles, causing faster ball movements
