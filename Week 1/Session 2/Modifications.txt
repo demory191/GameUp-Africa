@@ -1,0 +1,2 @@
+- increased the challenge of collecting coins by setting the Level Timer to 30 seconds. 
+- Added a new collectable 'Red coin' which freezes the movement of all enemies when collected.
